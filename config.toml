@@ -10,9 +10,7 @@ publishDir="public"
   firstname = "Mitchell"
   lastname = "Phiri"
   title = "Mechanical Engineer / Programmer"
-  bio = """John Smith brings over 40 years experience leading, contributing to, and growing engineering organizations in top [**CERN**](https://en.wikipedia.org/wiki/CERN) technology companies.
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et lacinia metus. Aliquam venenatis, orci ornare mollis congue, mi arcu lobortis tellus, id pulvinar ex ante eu mauris.
-  Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+  bio = """ [**CERN**](https://en.wikipedia.org/wiki/CERN) .
   """
 ## Contacts Configurations
 [params.contacts]
