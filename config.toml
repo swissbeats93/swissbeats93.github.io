@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Mitchell Phiri CV"
 theme = "awesome-identity"
+publishDir="public"
 
 ## Profile Configurations
 [params.profile]
@@ -26,7 +27,7 @@ theme = "awesome-identity"
 
 [[params.actions]]
   name = "Review My CV"
-  url = "https://down.pwntastic.kr/public/cv.pdf"
+  url = "/files/WORK-CV.pdf"
 
 ## Footer Configurations
 [params.footer]
