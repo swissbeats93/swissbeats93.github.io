@@ -1,0 +1,34 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Mitchell Phiri CV"
+theme = "awesome-identity"
+
+## Profile Configurations
+[params.profile]
+  portrait = "/images/profile_picture.jpeg"
+  firstname = "Mitchell"
+  lastname = "Phiri"
+  title = "Mechanical Engineer / Programmer"
+  bio = """John Smith brings over 40 years experience leading, contributing to, and growing engineering organizations in top [**CERN**](https://en.wikipedia.org/wiki/CERN) technology companies.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et lacinia metus. Aliquam venenatis, orci ornare mollis congue, mi arcu lobortis tellus, id pulvinar ex ante eu mauris.
+  Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+  """
+## Contacts Configurations
+[params.contacts]
+  email = "mitchell.phiri@cern.ch"
+  github = "swissbeats93"
+  twitter = "swissbeats93"
+  facebook = "phirim1"
+  linkedin = "swissbeats93"
+  instagram = "swissbeats93"
+  stackoverflow = "9709604"
+  medium = "@swissbeats93"
+
+[[params.actions]]
+  name = "Review My CV"
+  url = "https://down.pwntastic.kr/public/cv.pdf"
+
+## Footer Configurations
+[params.footer]
+  copyright = "© 2019 Mitchell Phiri. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+  poweredBy = true
