@@ -2,7 +2,6 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Mitchell Phiri CV"
 theme = "awesome-identity"
-publishDir="public"
 
 ## Profile Configurations
 [params.profile]
